@@ -3,6 +3,7 @@
 - Nombre completo: Juan Valderrama
 - Grupo DOSW: 1
 - Nombre del enunciado: [Espacio para el nombre del enunciado]
+- Bitacora: https://github.com/juandivg26/BitacoraDOSW.git
 
 ## Requisitos previos
 
