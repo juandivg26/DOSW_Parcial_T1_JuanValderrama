@@ -17,14 +17,19 @@
 
 - [x] Lucidchart / Draw.io / Miro: adjunte captura de pantalla de sesión activa o acceso a la cuenta.
 draw.io
-![alt text](image.png)
+<img width="1829" height="830" alt="imagen" src="https://github.com/user-attachments/assets/6e3a2fc0-cb96-4c89-aa2a-fcb806940401" />
+
 lucid
-![alt text](image-1.png)
+<img width="1822" height="854" alt="imagen" src="https://github.com/user-attachments/assets/ea533e7f-679f-4044-af53-31e4af81de26" />
+
 ### Figma
 
 - [x] Figma: adjunte captura de pantalla de acceso a la cuenta.
-![alt text](image-2.png)
+<img width="1837" height="887" alt="imagen" src="https://github.com/user-attachments/assets/17710ca6-d3d1-4717-a99d-5c9e6e96e4ac" />
+
+
 ### Evidencia de Maven
 
 - [x] Captura o evidencia de que el proyecto se ejecuta correctamente con Maven.
-![alt text](image-3.png)
+
+<img width="931" height="829" alt="imagen" src="https://github.com/user-attachments/assets/226fca87-0a70-4c57-9421-d8c70016769a" />
