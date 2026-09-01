@@ -38,6 +38,7 @@ lucid
 
 1.	Realice el diagrama de contexto con las generalidades del sistema. (Añadirlo al README.md)
 
+<img width="524" height="411" alt="imagen" src="https://github.com/user-attachments/assets/d2a1a5f5-04a4-4c2b-a796-cc718c6d6f7d" />
 
 2.	Identifique 5 requerimientos del sistema: 3 funcionales y 2 no funcionales. Garantice que al menos 1 requerimiento funcional utilice Chain of Responsibility y al menos 1 utilice Adapter. (Añadirlo al README.md)
   
