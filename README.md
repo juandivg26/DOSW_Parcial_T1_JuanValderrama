@@ -70,12 +70,20 @@ Historia de usuario
 Pueden usar figma I.A solo para la generación de sus pantallas
 
 7.	Seleccione un requerimiento asociado a los patrones y realice la descomposición de tareas:Épica → Feature → Historia de Usuario → mínimo 3 tareas. (Añadirlo al README.md)
-
-8.	Identifique los 2 patrones asignados (Iterator y Composite), especificando para cada uno:
+ procesar pagos a través de NEQUI
+ Epica: BOB’S BARBER
+ Feature : procesar pagos a través de NEQUI
+Historia de usuario:
+ - Como dueño quiero saber si el proceso del pago fue exitoso para poder separar la frnaja al cliente
+- Como cliente quiero saber si mi proceso de pago fue exitoso para saber si se reservo mi turno
+Task :
+1. Implementar el edpoint post - recibir nombre, correo, telefono. validar que sea correo unico y el numero sea de 10 digitos
+2. 
+9.	Identifique los 2 patrones asignados (Iterator y Composite), especificando para cada uno:
 a.	Nombre del patrón y tipo (creacional, estructural o de comportamiento)
 b.	Justificación de la decisión en el contexto de ECI Paw Connect
 c.	Diagrama de clases UML de la solución con los dos patrones aplicados
 d.	Cuáles principios SOLID está aplicando y porque
 
-9.	Desarrolle en código la solución propuesta. El método main deberá ejecutar todos los escenarios mínimos definidos. Los resultados obtenidos deberán ser consistentes con los resultados esperados. No se evaluarán únicamente los resultados finales: se evaluará que sean consecuencia de una aplicación correcta de los patrones.
+10.	Desarrolle en código la solución propuesta. El método main deberá ejecutar todos los escenarios mínimos definidos. Los resultados obtenidos deberán ser consistentes con los resultados esperados. No se evaluarán únicamente los resultados finales: se evaluará que sean consecuencia de una aplicación correcta de los patrones.
 
