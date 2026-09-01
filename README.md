@@ -95,7 +95,7 @@ Task:
 
 Tipo: Patron de comportamiento.
 
-Justificacion: Un turno debe pasar por 5 validaciones obligatorias en un orden especifico (franja, barbero, datos cliente, servicio, pasarela) y si una falla, se detiene todo. Con Chain of Responsibility cada validacion queda aislada, y si mañana el negocio pide una regla nueva, se puede agregar con facilidad sin tocar los que ya existen.
+Justificacion: Un turno debe pasar por 5 validaciones obligatorias en un orden especifico (franja, barbero, datos cliente, servicio, pasarela) y si una falla, se detien todo. Con Chain of Responsibility cada validacion queda aislada, y si mañana el negocio pide una regla nueva, se puede agregar con facilidad sin tocar los que ya existen.
 
 Principios SOLID aplicados:
 - OCP: se agregan validaciones nuevas creando handlers nuevos, sin modificar los existentes.
